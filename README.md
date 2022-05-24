@@ -1,3 +1,6 @@
+![banner](https://github.com/santtiq/santtiq/blob/main/header/2%20-%20copia.png)
+
+
 <h2 align="center">
 Front End Developer from Argentina
 </h2>
